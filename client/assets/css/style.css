@@ -578,6 +578,17 @@ input[type='text'] {
 }
 
 
+.redditWrap {
+  width:480px; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*.redditLogo {
+  height: 40px;
+  width: auto;
+}*/
+
 .feed-post {
   position: relative;
 }
