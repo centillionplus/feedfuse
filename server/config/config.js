@@ -1,7 +1,7 @@
 module.exports = {
   twitterConfig: {
-    key: process.env.twitterKey,
-    secret: process.env.twitterSecret
+    key: process.env.TWITTER_KEY,
+    secret: process.env.TWITTER_SECRET
   },
   instagramConfig: {
     id: process.env.igKey,
